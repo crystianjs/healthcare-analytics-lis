@@ -38,8 +38,8 @@ The transactional data structure replicates a production healthcare LIS environm
 ---
 
 ## 🚀 How the Pipeline Works (Step-by-Step)
-1. **Cloud Provisioning:** The production-ready database schema is executed in pgAdmin, directly altering the tables inside the **Supabase PostgreSQL** cloud container.
-2. **Data Manipulation & Extraction:** Complex SQL views combine the dimensions and facts to generate optimized datasets, avoiding performance bottlenecks.
+1. **Cloud Provisioning:** The production-ready database schema is executed directly inside the **Supabase PostgreSQL** cloud container via its internal SQL Editor.
+2. **Data Manipulation & Extraction:** Complex SQL statements combine the dimensions and facts to generate optimized datasets, avoiding performance bottlenecks.
 3. **Power Query ETL Connection:** Power BI establishes a native connection to the remote PostgreSQL host, triggering the SQL statements and handling strict data transformations within the Power Query editor.
 4. **Dashboard Analysis:** The final interface calculates key industry metrics such as operational efficiency, average TAT by department, and active sample queues.
 
@@ -55,5 +55,5 @@ The transactional data structure replicates a production healthcare LIS environm
 ## 👨‍💻 Author
 **Crystian Jesus**  
 *IT & Data Systems Analyst | Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)*  
-* 🌍 **LinkedIn:** [@crystianjs](https://linkedin.com)
+* 🌍 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 * 🚀 **GitHub Portfolio:** [://github.com](https://://github.com)
